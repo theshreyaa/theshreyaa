@@ -4,7 +4,7 @@
 
 <img src="https://imgur.com/nMaJAAF.png" width=40% align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushi-mittal" alt="aayushi-mittal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshreyaa" alt="theshreyaa" /> </p>
 
 <p>I am <b>Shreya</b> based in Delhi, India. I am a tech geek who is pursuing B.Tech in Computer Science from Indira Gandhi Delhi Technical Univeristy for Women, Delhi. Earlier, I used to be curious about computers, graphics, and what happens behind the scenes. However, all that exists are binary digits. Very intriguing, indeed.
 
@@ -37,16 +37,16 @@ I have experience with web development. So far I have C/C++, Python, Django, Jav
 I am passionate about social good and technology. I enjoy helping people.</p>
 
 <div align="center">
-<a href="https://twitter.com/_aayushimittal_" target="_blank">
+<a href="https://twitter.com/shreya_83" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/aayushi-mittal-309853196/" target="_blank">
+<a href="https://www.linkedin.com/in/shreya-5a007a230/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Aayushi-Mittal" target="_blank">
+<a href="https://github.com/theshreyaa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/aayushi_mittal" target="_blank">
+<a href="https://codepen.com/theshreyaa" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div> 
