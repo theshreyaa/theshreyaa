@@ -32,7 +32,6 @@ I have experience with web development. So far I have C/C++, Python, Django, Jav
     <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
   </p>
 
-<img src="https://imgur.com/ePLe9mA.gif" align="right" width=36%>
 
 I am passionate about social good and technology. I enjoy helping people.</p>
 
