@@ -61,15 +61,14 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 <a href="https://auth.geeksforgeeks.org/user/shreya3183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreya3183" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shreya3183"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreya3183" /></a></p><br><br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshreyaa&show_icons=true&locale=en&layout=compact" alt="theshreyaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshreyaa&show_icons=true&locale=en&layout=compact" alt="theshreyaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&locale=en" alt="theshreyaa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyaa&" alt="theshreyaa" /></p>
+
+<h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shreya3183"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreya3183" /></a></p><br><br>
 
 <details>
 
