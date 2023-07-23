@@ -35,20 +35,6 @@ I have experience with web development. So far I have C/C++, Python, Django, Jav
 
 I am passionate about social good and technology. I enjoy helping people.</p>
 
-<div align="center">
-<a href="https://twitter.com/shreya_83" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shreya-5a007a230/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/theshreyaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/theshreyaa" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div> 
 
 <p align="center">&nbsp;</p>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
@@ -63,8 +49,6 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **shreyaa3183@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TUkl1F0PHf1Q6YLfOAxM3lG5xlI9d7vk/view?usp=drive_link](https://drive.google.com/file/d/1TUkl1F0PHf1Q6YLfOAxM3lG5xlI9d7vk/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I'm funny.**
 
