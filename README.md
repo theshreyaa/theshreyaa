@@ -34,7 +34,7 @@ I have experience with web development. So far I have C/C++, Python, Django, Jav
 
 
 I am passionate about social good and technology. I enjoy helping people.</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshreyaa" alt="theshreyaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshreyaa" alt="theshreyaa" /></a> </p>
 
 <p align="center">&nbsp;</p>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
