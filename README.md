@@ -87,12 +87,12 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                                                         
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | 
 |  01  | Code Sync      | [Link](https://github.com/theshreyaa/Code-Sync)          | [Repository](https://github.com/theshreyaa/Code-Sync)        |
-|  02  | Food Plaza     |    [Link](https://github.com/theshreyaa/Food-Plaza)     |   [Repository]([https://github.com/theshreyaa/Food_Plaza](https://github.com/theshreyaa/Food-Plaza))    |     
+|  02  | Food Plaza     |    [Link](https://github.com/theshreyaa/Food-Plaza)     |   [Repository](https://github.com/theshreyaa/Food-Plaza))    |     
 
 
 | S.No | Mini Project |                       Live Link                        |                                 GitHub Link                                  |
 | :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
-|  01  | Life Track         |     [Link](https://todo-app-by-shreya.vercel.app/login)     |           [Repository](https://github.com/theshreyaa/Todo-App)    |
+|  01  | Todo App        |     [Link](https://todo-app-shreya.vercel.app/)     |           [Repository](https://github.com/theshreyaa/React-todo-App)    |
 |  02  | Weather Forecaster    | [Link](https://forecasting-by-shreya.vercel.app/) |         [Repository](https://github.com/theshreyaa/Weather-App) |
 |  03  | MyStartUp          | [Link](https://theshreyaa.github.io/myStartup/)  |         [Repository](https://github.com/theshreyaa/myStartup)      |
 |  04  | Amazon Clone       |  [Link](https://theshreyaa.github.io/Amazon-Frontend/)  |          [Repository](https://github.com/theshreyaa/Amazon-Frontend)    |
