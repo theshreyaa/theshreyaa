@@ -10,28 +10,6 @@
 
 I have experience with web development. So far I have C/C++, Python, Django, Javascript, Typescript, HTML, CSS, Bootstrap, Tailwind CSS, React, SQL, and Git/Github under my belt. To complement my web development skills, I am learning full stack.
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" /></a>  
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="40" /></a>   
-    <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
-  </p>
-
 
 I am passionate about social good and technology. I enjoy helping people.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshreyaa" alt="theshreyaa" /></a> </p>
@@ -40,13 +18,13 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories.</h3>
 <p align="center">_______________________________________</p>
 
-- 🔭 I’m currently working on [myStartUp](https://github.com/theshreyaa/myStartup/tree/main)
+- 🔭 I’m currently working on [Food Plaza](https://github.com/theshreyaa/Food_Plaza)
 
-- 🤝 I’m looking for help with [Career Climb](https://github.com/theshreyaa/Career-Climb)
+- 🤝 I’m looking for help with [Code Sync](https://github.com/theshreyaa/Code Sync)
 
 - 👨‍💻 All of my projects are available at [https://theshreyaa.github.io/](https://theshreyaa.github.io/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development, Data Structures and Machine Learning**
 
 - 📫 How to reach me **shreyaa3183@gmail.com**
 
@@ -60,12 +38,71 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 <a href="https://www.leetcode.com/shreya_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_47" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shreya3183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreya3183" height="30" width="40" /></a>
 </p>
+## 💻 Some stats 💻
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theshreyaa&show_icons=true&locale=en&layout=compact" alt="theshreyaa" /></p>
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/theshreyaa">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/akashdeep023">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+</a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&locale=en" alt="theshreyaa" /></p>
+## 👨‍💻 Languages and Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshreyaa&" alt="theshreyaa" /></p>
+<span>
+  <a href="https://github.com/theshreyaa">
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/material-ui%20-%23F05033.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/express.js%20-light.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/tailwind-%2300ADD8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/mysql%20-grey.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/github%20-white.svg?&style=for-the-badge&logo=git-hub&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/netlify-purple.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/vercel-blue.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/render-yellow.svg?style=for-the-badge&logo=render&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="http://img.shields.io/badge/-java-yellow?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/c++%20-%2314054C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=blue"/>
+</a>
+</span>
+<br>
+
+## 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=theshreyaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/theshreyaa)<br><br>
+
+## 🧑‍🏫 All Projects
+
+| S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                                                         
+| :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | 
+|  01  | Code Sync      | [Link](https://github.com/theshreyaa/Code-Sync)          | [Repository](https://github.com/theshreyaa/Code-Sync)        |
+|  02  | Food Plaza     |    [Link](https://github.com/theshreyaa/Food-Plaza)     |   [Repository]([https://github.com/theshreyaa/Food_Plaza](https://github.com/theshreyaa/Food-Plaza))    |     
+
+
+| S.No | Mini Project |                       Live Link                        |                                 GitHub Link                                  |
+| :--: | :----------------- | :----------------------------------------------------: | :--------------------------------------------------------------------------: |
+|  01  | Life Track         |     [Link](https://todo-app-by-shreya.vercel.app/login)     |           [Repository](https://github.com/theshreyaa/Todo-App)    |
+|  02  | Weather Forecaster    | [Link](https://forecasting-by-shreya.vercel.app/) |         [Repository](https://github.com/theshreyaa/Weather-App) |
+|  03  | MyStartUp          | [Link](https://theshreyaa.github.io/myStartup/)  |         [Repository](https://github.com/theshreyaa/myStartup)      |
+|  04  | Amazon Clone       |  [Link](https://theshreyaa.github.io/Amazon-Frontend/)  |          [Repository](https://github.com/theshreyaa/Amazon-Frontend)    |
+|  05  | Netflix Clone      | [Link](https://github.com/theshreyaa/Netflix-Clone)  |          [Repository](https://github.com/akashdeep023/Spotify-Clone) 
+
+---
+
+<a href="https://github.com/theshreyaa">
+  <img src="https://imgur.com/rilHVxA.png"/>
+</a>
+
+---
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shreya3183"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shreya3183" /></a></p><br><br>
@@ -73,7 +110,7 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 <details>
 
 
- Last Updated on 21/07/2023 01:09:01 UTC
+ Last Updated on 09/07/2024 01:09:01 UTC
 <!--END_SECTION:waka-->
 
 
