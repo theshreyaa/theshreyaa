@@ -20,7 +20,7 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 
 - 🔭 I’m currently working on [Food Plaza](https://github.com/theshreyaa/Food_Plaza)
 
-- 🤝 I’m looking for help with [Code Sync](https://github.com/theshreyaa/Code Sync)
+- 🤝 I’m looking for help with [Code Sync](https://github.com/theshreyaa/Code_Sync)
 
 - 👨‍💻 All of my projects are available at [https://theshreyaa.github.io/](https://theshreyaa.github.io/)
 
