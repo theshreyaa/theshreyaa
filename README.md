@@ -41,13 +41,13 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 
 ## 💻 Some stats 💻
 
-<div align="center" style="display: flex; justify-content: space-around;">
-  <a href="https://github.com/theshreyaa">
-    <img height="350px" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=contribs,issues"/>
-  </a>
-  <a href="https://github.com/theshreyaa">
-    <img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshreyaa&theme=tokyonight&layout=donut-vertical"/>
-  </a>
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/theshreyaa">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/akashdeep023">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+</a>
 </div>
 
 
