@@ -96,7 +96,7 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 |  02  | Weather Forecaster    | [Link](https://forecasting-by-shreya.vercel.app/) |         [Repository](https://github.com/theshreyaa/Weather-App) |
 |  03  | MyStartUp          | [Link](https://theshreyaa.github.io/myStartup/)  |         [Repository](https://github.com/theshreyaa/myStartup)      |
 |  04  | Amazon Clone       |  [Link](https://theshreyaa.github.io/Amazon-Frontend/)  |          [Repository](https://github.com/theshreyaa/Amazon-Frontend)    |
-|  05  | Netflix Clone      | [Link](https://github.com/theshreyaa/Netflix-Clone)  |          [Repository](https://github.com/akashdeep023/Spotify-Clone) 
+|  05  | Netflix Clone      | [Link](https://github.com/theshreyaa/Netflix-Clone)  |          [Repository](https://github.com/theshreyaa/Netflix-Clone) 
 
 ---
 
