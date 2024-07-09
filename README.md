@@ -45,8 +45,8 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 <a style="" href="https://github.com/theshreyaa">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=theshreyaa&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
 </a>
-<a style="" href="https://github.com/akashdeep023">
-  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdeep023&theme=tokyonight&layout=donut-vertical"/>
+<a style="" href="https://github.com/theshreyaa">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshreyaa&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
 
