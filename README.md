@@ -87,7 +87,7 @@ I am passionate about social good and technology. I enjoy helping people.</p>
 | S.No | Major Project  |                        Live Link                        |                         GitHub Link                          |                                                                                                         
 | :--: | :------------- | :-----------------------------------------------------: | :----------------------------------------------------------: | 
 |  01  | Code Sync      | [Link](https://github.com/theshreyaa/Code-Sync)          | [Repository](https://github.com/theshreyaa/Code-Sync)        |
-|  02  | Food Plaza     |    [Link](https://github.com/theshreyaa/Food-Plaza)     |   [Repository](https://github.com/theshreyaa/Food-Plaza))    |     
+|  02  | Food Plaza     |    [Link](https://github.com/theshreyaa/Food-Plaza)     |   [Repository](https://github.com/theshreyaa/Food-Plaza)   |     
 
 
 | S.No | Mini Project |                       Live Link                        |                                 GitHub Link                                  |
